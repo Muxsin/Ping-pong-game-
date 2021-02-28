@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#ping_pong {
+    background-color: rgb(47, 38, 102);
+    border: 2px solid black;
+    box-shadow: 0 0 12px black;
+}
